@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/studio/:https://tiktik-clone-vxan.vercel.app/",
+      "destination": "https://tiktik-clone-vxan.vercel.app/:https://tiktik-clone-vxan.vercel.app/"
+    }
+  ]
+}
